@@ -2,6 +2,7 @@
 
 ### 🚀 Team Name: Syntax Squad
 ### 🧩 Problem Statement: AI-Driven Career Counseling System for Students
+### Video link : https://drive.google.com/file/d/1p_rzKN648OK6dgpKzH-Qo2ZSxqPg067L/view?usp=sharing
 
 ---
 
